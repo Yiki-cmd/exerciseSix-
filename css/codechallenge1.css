@@ -1,0 +1,14 @@
+.div{
+    background-color: blue;
+
+}
+@media(min-width:768px){
+    div{
+        background-color:lightgreen;
+    }
+}
+@media(max-width:480px){
+    div{
+        background-color: coral;
+    }
+}

@@ -1,0 +1,13 @@
+
+.nav-links{
+    display: inline-block;
+    
+
+} 
+@media(max-width:600px){
+
+.nav-links li{
+    display:block;
+
+}
+}
